@@ -1,0 +1,6 @@
+Toyota Corolla,	Color: Blue,	Starting Mileage: 30
+Toyota RAV4,	Color: Black,	Starting Mileage: 1500
+Toyota Tundra,	Color: Silver,	Starting Mileage: 20
+Honda Accord,	Color: Black,	Starting Mileage: 2000
+Honda CRV,	Color: White,	Starting Mileage: 10
+Honda Ridgeline,	Color: Red,	Starting Mileage: 1500
