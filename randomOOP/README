@@ -1,0 +1,10 @@
+This is a basic OOP project that I created from scratch for a java programming school project. 
+This project showcases my understanding of OOP concepts such as abstraction, interfaces, and working with many classes and objects.
+
+The main purpose of this project is to create an abstract class for the children classes to extend on. It also takes abstract methods that can be used in different
+classes so that we don't have to create the same methods for all the differente classes.
+
+There is also a basic interface method that implementing child classes can utilize.
+
+If I had more time to work on this project, I would add user feedback to control the outcome of the program. This project could also be scaled to
+give users the prices for taxis in their area, if more time was spent on it.
